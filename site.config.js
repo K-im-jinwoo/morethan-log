@@ -1,12 +1,12 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "morethanmin",
+    name: "Kim Jin Woo",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "frontend developer",
-    bio: "I develop everything using node.",
-    email: "morethanmin.dev@gmail.com",
-    linkedin: "morethanmin",
+    role: "Frontend developer & SI Developer",
+    bio: "간단한 기록일지",
+    email: "zaqaz114@gmail.com",
+    linkedin: "https://github.com/K-im-jinwoo",
     github: "morethanmin",
     instagram: "",
   },
@@ -18,7 +18,7 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "morethan-log",
+    title: "Jinwoo-log",
     description: "welcome to morethan-log!",
     scheme: "dark", // 'light' | 'dark' | 'system'
   },
