@@ -6,8 +6,8 @@ const CONFIG = {
     role: "Frontend developer & SI Developer",
     bio: "간단한 기록일지",
     email: "zaqaz114@gmail.com",
-    linkedin: "https://github.com/K-im-jinwoo",
-    github: "morethanmin",
+    linkedin: "",
+    github: "K-im-jinwoo",
     instagram: "",
   },
   projects: [
